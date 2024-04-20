@@ -12,6 +12,7 @@ public class sum {
             //напишите тут ваш код
                 System.out.println(sum);
         System.out.println("s");
+        System.out.println("Добавил какие-то изменения");
         }
         int method1(int start, int end,int multiple){
         int sum = start+end;
