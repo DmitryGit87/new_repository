@@ -13,6 +13,7 @@ public class sum {
                 System.out.println(sum);
         System.out.println("s");
         System.out.println("Добавил какие-то изменения");
+        System.out.println("fdsfdsf");
         }
         int method1(int start, int end,int multiple){
         int sum = start+end;
