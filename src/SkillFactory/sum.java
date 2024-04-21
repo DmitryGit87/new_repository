@@ -13,6 +13,9 @@ public class sum {
                 System.out.println(sum);
         System.out.println("s");
         System.out.println("Добавил какие-то изменения");
+        System.out.println("Добавил Beta1");
+        System.out.println("ECOM-2312 fix");
+        System.out.println("ECOM-23133");
         }
         int method1(int start, int end,int multiple){
         int sum = start+end;
