@@ -9,6 +9,6 @@ public class FknCycles {
             count++;
             scanner.nextInt();
         }
-        System.out.println(count);
+        System.out.println("beta1");
     }
     }

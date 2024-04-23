@@ -35,7 +35,7 @@ public class Calculator {
             result = operand1 / operand2;
             System.out.println("Результат: " + result);
 
-        } else System.out.println("Операция не поддерживается");
+        } else System.out.println("MASTER");
         scanner.close();
     }
 }
